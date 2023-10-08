@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "ea02638bdb83fe25",
+    "type": "split",
+    "children": [
+      {
+        "id": "52adfb1916f59ddd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bd67338c08e8ce6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f26fb4b21d04f1cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f27db8d773ed0d54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8faeda927a983d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee8971dd2a706b87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08da27438fe4c37b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58db256ca866e459",
+    "type": "split",
+    "children": [
+      {
+        "id": "187fe0ce0aca59ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc55042a17279b6a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a6d54601101eed6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a36f5efda9642127",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "35fadec1e4c585af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f8faeda927a983d7",
+  "lastOpenFiles": [
+    "7. Marketing and PR/Placeholder.md",
+    "7. Marketing and PR",
+    "6. Distribution/Placeholder.md",
+    "6. Distribution",
+    "5. Assets and Software/Placeholder.md",
+    "5. Assets and Software",
+    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/LinkedFiles/T-KB-T-U-TDD-008.png",
+    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/LinkedFiles/T-KB-T-U-TDD-007.png",
+    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/LinkedFiles/T-KB-T-U-TDD-006.png",
+    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/LinkedFiles/T-KB-T-U-TDD-005.png",
+    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/LinkedFiles/T-KB-T-U-TDD-004.png",
+    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/LinkedFiles/T-KB-T-U-TDD-003.png",
+    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/LinkedFiles/T-KB-T-U-TDD-002.png",
+    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/LinkedFiles/T-KB-T-U-TDD-001.png",
+    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/LinkedFiles",
+    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/Use case of TDD - Safe clean code.md",
+    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/Intuitive Techniques which do not work.md",
+    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development",
+    "4. Technical/Planning/Templates/TDD Template.md",
+    "4. Technical/Planning/Templates/System Template.md",
+    "4. Technical/Knowledge Base/Standards/Testing and Test Driven Development.md",
+    "4. Technical/Knowledge Base/Standards/Template.md",
+    "4. Technical/Knowledge Base/Standards/Naming.md",
+    "4. Technical/Knowledge Base/Standards/Code Structure.md",
+    "4. Technical/Knowledge Base/Standards/Exceptions.md",
+    "4. Technical/Knowledge Base/Technologies/Unity",
+    "4. Technical/Knowledge Base/Standards/Assemblies and Projects.md",
+    "4. Technical/Planning/Templates",
+    "4. Technical/Planning/Technical Design Documents",
+    "4. Technical/Planning/System Design Documents",
+    "4. Technical/Knowledge Base/Standards",
+    "3. Design/Planning/Templates/Single Feature Template.md",
+    "3. Design/Planning/Templates/Design Documents.md",
+    "3. Design/Overview.md",
+    "2. Research and Development/5. Technical Research/Talks/LinkedFiles/RandD-TR-Talks-A-001.png",
+    "2. Research and Development/5. Technical Research/Talks/Talk -  You are doing logging in .NET wrong. Let’s fix it. - Nick Chapsas - NDC Oslo 2023.md",
+    "2. Research and Development/5. Technical Research/Game Tech/Unreal Engine.md",
+    "2. Research and Development/5. Technical Research/Game Tech/Unity Engine.md",
+    "2. Research and Development/5. Technical Research/Game Tech/SDL 2.md",
+    "2. Research and Development/5. Technical Research/Game Tech/Overview.md",
+    "2. Research and Development/5. Technical Research/Game Tech/MonoGame.md",
+    "2. Research and Development/3. Idea Development/Idea - Template.md",
+    "2. Research and Development/3. Idea Development/Idea - Simple Snake.md",
+    "2. Research and Development/3. Idea Development/Idea - Infinite Runner Snake.md",
+    "2. Research and Development/2. Resource Summaries/Video Games/LinkedFiles/RANDD-RS-VG-SnakeNokia-C.png",
+    "2. Research and Development/2. Resource Summaries/Video Games/Game - Snake Nokia.md"
+  ]
+}
