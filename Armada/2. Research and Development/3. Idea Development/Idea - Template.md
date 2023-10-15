@@ -1,9 +1,14 @@
-<font color="#f79646"><u><b>Note name should be: [Idea] - Title</b></u></font> - delete this line once complete
-#randd #research #resources #idea *Tags go here*
-
-|Owner|State|Last_update|
-|--|--|--|
-|USERNAME|Draft, Development, Review, Signed off|Date|
+---
+Owner: Username
+State: Draft, Development, Review, Signed off
+Last Update: 2023-01-01
+tags:
+  - randd
+  - research
+  - resources
+  - idea
+---
+>Note name should be: Idea - Title - delete this line (and next) when named.
 
 **Table of contents**
 - [Summary](#Summary)

@@ -1,9 +1,21 @@
-#randd #research #resources #summaries #game #pac-man #pacman #arcade
-
-|Owner|State|Last_update|
-|--|--|--|
-|@ScottGarryFoster|Signed off|29 May 2023|
-
+---
+Owner: ScottGarryFoster
+State: Signed off
+Last Update: 2023-05-29
+tags:
+  - randd
+  - research
+  - resources
+  - summaries
+  - game
+  - pac-man
+  - pacman
+  - arcade
+source name: PAC-MAN 256
+source link: https://store.steampowered.com/app/455400/PACMAN_256/
+source date: 2015-08-20
+source publication: "Publication: BANDAI NAMCO Entertainment Europe and BANDAI NAMCO Games"
+---
 **Table of contents**
 - [Summary](#Summary)
 - [Take-Aways](#Take-Aways)
@@ -17,9 +29,7 @@ Video game by Bandai Namco using the arcade classic Pac-man licence. Develops us
 
 Suggestion from the article in [[Article - 12 Best Endless Runner Mobile Games, Ranked]].
 
-Source: [PAC-MAN 256](https://store.steampowered.com/app/455400/PACMAN_256/) by [HipsterWhale](https://www.hipsterwhale.com/), [https://twitter.com/3sprockets](3sprockets) and [Bandai Namco Studios](https://www.bandainamcostudios.com/en/)
-Date: 20th Aug 2015
-Publication: BANDAI NAMCO Entertainment Europe and BANDAI NAMCO Games
+Publishers: [PAC-MAN 256](https://store.steampowered.com/app/455400/PACMAN_256/) by [HipsterWhale](https://www.hipsterwhale.com/), [https://twitter.com/3sprockets](3sprockets) and [Bandai Namco Studios](https://www.bandainamcostudios.com/en/)
 
 # Take-Aways
 * Game appears to use both elements from Rouge Like games and Infinite runners - Infinite runners continually push players in a direction, rouge likes have generated levels with powerups boosted over time.

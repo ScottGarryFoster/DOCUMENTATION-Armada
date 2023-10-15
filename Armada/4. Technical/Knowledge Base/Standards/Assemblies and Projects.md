@@ -1,9 +1,15 @@
-#technical #standards #csharp #project #assembly #library
-
-|Owner|State|Last_update|
-|--|--|--|
-|@ScottGarryFoster|Copied from FQ|21st May 2023|
-
+---
+Owner: ScottGarryFoster
+State: Copied from FQ
+Last Update: 2023-05-21
+tags:
+  - technical
+  - standards
+  - csharp
+  - project
+  - assembly
+  - library
+---
 **Table of contents**
 - [[#Summary|Summary]]
     - [[#Assemblies are prefixed FQ|Assemblies are prefixed FQ]]

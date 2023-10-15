@@ -1,9 +1,19 @@
-#randd #research #resources #summaries #game #snake 
-
-|Owner|State|Last_update|
-|--|--|--|
-|@ScottGarryFoster|Signed off|29 May 2023|
-
+---
+Owner: ScottGarryFoster
+State: Signed off
+Last Update: 2023-05-29
+tags:
+  - randd
+  - research
+  - resources
+  - summaries
+  - game
+  - snake
+source name: Snake Nokia
+source link: https://www.gamepix.com/play/snake-3310-html5
+source date: 2023-05-28
+source publication: Gamepik
+---
 **Table of contents**
 - [Summary](#Summary)
 - [Take-Aways](#Take-Aways)
@@ -13,10 +23,6 @@
 
 # Summary
 Recreation of the Nokia version of Snake 2 in HTML5 using Construct 2 (game engine).
-
-Source: [Snake Nokia](https://www.gamepix.com/play/snake-3310-html5)
-Date: **28 May 2023**
-Publication: **Gamepik**
 
 # Take-Aways
 * Created in Construct 2

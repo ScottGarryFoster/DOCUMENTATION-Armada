@@ -1,9 +1,12 @@
-#technical #standards #csharp 
-
-|Owner|State|Last_update|
-|--|--|--|
-|@ScottGarryFoster|Copied from FQ|21st May 2023|
-
+---
+Owner: ScottGarryFoster
+State: Copied from FQ
+Last Update: 2023-05-21
+tags:
+  - technical
+  - standards
+  - csharp
+---
 **Table of contents**
 - [[#Summary|Summary]]
     - [[#Properties|Properties]]

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Design/Planning/Design Document.md",
+                "file": "3. Design/Features/Possession/Overview Possession.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf105be272d959c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Research and Development/Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Design/Planning/Design Document.md",
+                "file": "2. Research and Development/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Design/Planning/Design Document.md",
+                "file": "2. Research and Development/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Design/Planning/Design Document.md"
+                "file": "2. Research and Development/Overview.md"
               }
             }
           }
@@ -146,36 +159,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3bd67338c08e8ce6",
+  "active": "bf105be272d959c2",
   "lastOpenFiles": [
-    "Untitled.md",
-    "3. Design/Planning/Design Document.md",
-    "3. Design/Planning/Templates/Design Documents Template.md",
-    "3. Design/Planning/Templates/Single Feature Template.md",
-    "3. Design/Overview.md",
-    "1. Documentation/LinkedFiles/Documentation-YoutubeLink.png",
-    "1. Documentation/LinkedFiles/Documentation-PlantUMLText.png",
-    "1. Documentation/LinkedFiles/Documentation-PlantUMLImage.png",
     "1. Documentation/Knowledge Base/Resources.md",
     "1. Documentation/Knowledge Base/Obsidian.md",
     "1. Documentation/Knowledge Base/Markdown.md",
     "1. Documentation/Knowledge Base/Github Desktop.md",
     "1. Documentation/Knowledge Base/Github.md",
     "1. Documentation/Overview.md",
-    "2. Research and Development/1. References and Sources/Article - 12 Best Endless Runner Mobile Games, Ranked.md",
-    "5. Assets and Software/Placeholder.md",
+    "4. Technical/Planning/Templates/TDD Template.md",
+    "4. Technical/Planning/Templates/System Template.md",
+    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/Intuitive Techniques which do not work.md",
+    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/Use case of TDD - Safe clean code.md",
+    "4. Technical/Knowledge Base/Standards/Naming.md",
+    "4. Technical/Knowledge Base/Standards/Exceptions.md",
+    "4. Technical/Knowledge Base/Standards/Code Structure.md",
+    "4. Technical/Knowledge Base/Standards/Assemblies and Projects.md",
+    "4. Technical/Knowledge Base/Standards/Testing and Test Driven Development.md",
+    "3. Design/Overview.md",
+    "3. Design/Planning/Design Document.md",
+    "3. Design/Planning/Templates/Single Feature Template.md",
+    "3. Design/Planning/Templates/Design Documents Template.md",
+    "3. Design/Features/Possession/Overview Possession.md",
+    "2. Research and Development/5. Technical Research/Talks/Talk -  You are doing logging in .NET wrong. Let’s fix it. - Nick Chapsas - NDC Oslo 2023.md",
     "2. Research and Development/5. Technical Research/Game Tech/MonoGame.md",
-    "2. Research and Development/5. Technical Research/Game Tech/Unreal Engine.md",
-    "2. Research and Development/5. Technical Research/Game Tech/Unity Engine.md",
-    "2. Research and Development/5. Technical Research/Game Tech/SDL 2.md",
-    "2. Research and Development/5. Technical Research/Game Tech/Overview.md",
-    "2. Research and Development/3. Idea Development/Idea - Infinite Runner Snake.md",
-    "2. Research and Development/3. Idea Development/Idea - Simple Snake.md",
-    "2. Research and Development/2. Resource Summaries/Online Literature/Article - The history of Snake- How the Nokia game defined a new era for the mobile industry.md",
-    "2. Research and Development/2. Resource Summaries/Video Games/Game - Pac-man 256.md",
-    "7. Marketing and PR/Placeholder.md",
+    "2. Research and Development/Overview.md",
+    "2. Research and Development/3. Idea Development/Idea - Template.md",
+    "2. Research and Development/1. References and Sources/Article - 12 Best Endless Runner Mobile Games, Ranked.md",
+    "2022-11-25.md",
+    "2. Research and Development/4. Prototyping/New Text Document.txt",
+    "3. Design/Features/Possession",
+    "3. Design/Features",
+    "1. Documentation/LinkedFiles/Documentation-YoutubeLink.png",
+    "1. Documentation/LinkedFiles/Documentation-PlantUMLText.png",
+    "1. Documentation/LinkedFiles/Documentation-PlantUMLImage.png",
     "7. Marketing and PR",
-    "6. Distribution/Placeholder.md",
     "6. Distribution",
     "5. Assets and Software",
     "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/LinkedFiles/T-KB-T-U-TDD-008.png",
@@ -186,13 +204,8 @@
     "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/LinkedFiles/T-KB-T-U-TDD-003.png",
     "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/LinkedFiles/T-KB-T-U-TDD-002.png",
     "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/LinkedFiles",
-    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/Use case of TDD - Safe clean code.md",
-    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/Intuitive Techniques which do not work.md",
     "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development",
     "4. Technical/Knowledge Base/Technologies/Unity",
-    "4. Technical/Planning/Templates",
-    "4. Technical/Planning/Technical Design Documents",
-    "4. Technical/Planning/System Design Documents",
-    "4. Technical/Knowledge Base/Standards"
+    "4. Technical/Planning/Templates"
   ]
 }

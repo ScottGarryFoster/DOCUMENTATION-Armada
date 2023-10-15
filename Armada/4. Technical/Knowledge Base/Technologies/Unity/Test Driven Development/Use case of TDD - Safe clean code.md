@@ -1,9 +1,15 @@
-#technical #knowleadgebase #technologies #unity #tdd #testdrivendevelopment 
-
-|Owner|State|Last_update|
-|--|--|--|
-|@ScottGarryFoster|Development|29th July 2023|
-
+---
+Owner: ScottGarryFoster
+State: Development
+Last Update: 2023-07-29
+tags:
+  - technical
+  - knowleadgebase
+  - technologies
+  - unity
+  - tdd
+  - testdrivendevelopment
+---
 # Summary
 It may be easy to claim the advantages of test driven development without showing a re-world advantage. Artificial examples may also be simplistic and not fully show off the techniques and advantages of TDD. To show of one of the major advantages of test driven development this is a use case in development of prototypes of the process of cleaning code after producing a working module.
 

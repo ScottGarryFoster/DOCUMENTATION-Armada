@@ -1,9 +1,24 @@
-#randd #research #resources #summaries #talk #logging #nick #chapsas #ndc #oslo 
-
-|Owner|State|Last_update|
-|--|--|--|
-|@ScottGarryFoster|Development|29 June 2023|
-
+---
+Owner: ScottGarryFoster
+State: Development
+Last Update: 2023-08-01
+tags:
+  - randd
+  - research
+  - resources
+  - summaries
+  - talk
+  - logging
+  - nick
+  - chapsas
+  - ndc
+  - oslo
+source name: You are doing logging in .NET wrong. Let’s fix it. - Nick Chapsas - NDC Oslo 2023
+source link: https://www.youtube.com/watch?v=NlBjVJPkT6M
+source date: 2023-06-29
+source publication: Nick Chapsas
+source publication link: https://www.linkedin.com/in/nick-chapsas/?originalSubdomain=uk
+---
 **Table of contents**
 - [Summary](#Summary)
 - [Take-Aways](#Take-Aways)
@@ -11,10 +26,6 @@
 
 # Summary
 >Add Summary
-
->Source: [You are doing logging in .NET wrong. Let’s fix it. - Nick Chapsas - NDC Oslo 2023](https://www.youtube.com/watch?v=NlBjVJPkT6M) by [Nick Chapsas](https://www.linkedin.com/in/nick-chapsas/?originalSubdomain=uk)
->Date: NUMBER(ST/ND/RD/TH) MONTH YEAR
->Publication: SITE/PUBLISHER
 
 # Take-Aways
 ## C# Compiler

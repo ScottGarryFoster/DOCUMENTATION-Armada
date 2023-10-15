@@ -1,19 +1,25 @@
-#randd #research #resources #article #references #sources 
-
-|Owner|State|Last_update|
-|--|--|--|
-|@ScottGarryFoster|Signed off|29 May 2023|
-
+---
+Owner: ScottGarryFoster
+State: Signed off
+Last Update: 2023-05-29
+tags:
+  - randd
+  - research
+  - resources
+  - references
+  - sources
+source name: Erik Petrovich
+source link: https://gamerant.com/best-endless-runner-mobile-games-ranked
+source date: 2022-11-25
+source publication: Game Rant
+source publication link: https://gamerant.com/
+---
 **Table of contents**
 - [Summary](#Summary)
 - [Content](#Content)
 
 # Summary
 Lists 12 of the best endless runner mobile games. Is largely an opinion piece based on reviews of the site.
-
-Source: [gamerant.com](https://gamerant.com/best-endless-runner-mobile-games-ranked) by Erik Petrovich
-Date: 25th Nov 2022
-Publication: [Game Rant](https://gamerant.com/)
 
 # Content
 The list of runners listed in the article are as follows:

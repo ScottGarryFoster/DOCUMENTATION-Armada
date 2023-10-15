@@ -1,9 +1,10 @@
-#design *Tag the document here*
-
-|Owner|State|Last_update|
-|--|--|--|
-|@ScottGarryFoster|Draft|Oct 8th 2023|
-
+---
+Owner: ScottGarryFoster
+State: Draft
+Last Update: 2023-10-08
+tags:
+  - design
+---
 **Table of Contents**
 - [Core](#Core)
 - [Pillars](#Pillars)
@@ -44,9 +45,34 @@ This game seeks to show more in less by using the mechanics a minimalistic art s
 	* Discover weakness and exploit them
 	* Learn patterns to avoid attacks
 	* Grow tactically not just in power
+4. Agency
+	* Manipulate the world around you
+	* Comprehend your choices and have the ability to make them
+	* Understand objectives and tackle them using logical methods
 
 ---
 # Features
+1. Possession
+	* Certain entities in the world may be taken over.
+	* These have abilities, combat moves and movement styles which help you progress.
+	* Possession comes with downsides and is not possible or even wise in all locations.
+2. Transformation
+	* Unlocked throughout the game, you may transform into certain elements.
+	* Transformations may unlock movement, such as firing yourself with a bow.
+	* Transformations interact with puzzle elements, for example lighting and buttons.
+3. Combat
+	* Combat is a required element of progression. Items and lessons contribute to the difficulty.
+	* Possession and Transformation may interact with the combat system.
+	* Items, progression are locked behind either completing combat or otherwise removing enemies via other lethal methods.
+4. Unlock
+	* Barriers of progression unlocked only by defeating challenge or unlocking the way forward.
+	* Puzzle elements buttons, blocks and liquid levels which synergize with possessions and transformations.
+	* Challenges are found in mini-dungeons which involve objective based unlocks, move X object to Y location or defeat all enemies in the dark.
+5. Impermanence
+	* The world is changed by decisions which are made by the player.
+	* Completing activities permanently changes the world and unlocks further events.
+	* Landscape, society, economy and political power are at the mercy of the player.
+
 >*Describe some main features. You do not need to go into great detail, this document is not for the nitty gritty but is for the broad strokes. Link from here to your Feature documents.*
 
 >*A feature / mechanic could be a movement system, inventory, driving, exploration, story etc. If it is not listed here then it does not mean it is not in the game, these are the 'main' features.*

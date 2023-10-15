@@ -1,9 +1,10 @@
-#technical *Tags go here*
-
-|Owner|State|Last_update|
-|--|--|--|
-|USERNAME|Draft, Development, Review, Signed off|Date|
-
+---
+Owner: Username
+State: Draft, Development, Review, Signed off
+Last Update: 2023-01-01
+tags:
+  - technical
+---
 **Table of contents**
 - [Purpose](#Purpose)
 - [Key Requirements](#Key_Requirements)

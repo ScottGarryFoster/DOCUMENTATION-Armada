@@ -1,9 +1,19 @@
-#randd #research #resources #summaries #game #playsnake
-
-|Owner|State|Last_update|
-|--|--|--|
-|@ScottGarryFoster|Signed off|29 May 2023|
-
+---
+Owner: ScottGarryFoster
+State: Signed off
+Last Update: 2023-05-29
+tags:
+  - randd
+  - research
+  - resources
+  - summaries
+  - game
+  - playsnake
+source name: PlaySnake.org
+source link: https://playsnake.org/
+source date: 2023-05-28
+source publication: Neave Interactive
+---
 **Table of contents**
 - [Summary](#Summary)
 - [Take-Aways](#Take-Aways)
@@ -13,10 +23,6 @@
 
 # Summary
 Game summary from an online recreation of the game
-
-Source: [PlaySnake.org](https://playsnake.org/)
-Date: 28 May 2023
-Publication: Neave Interactive
 
 # Take-Aways
 * Plays in the browser

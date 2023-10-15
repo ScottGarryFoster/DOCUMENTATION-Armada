@@ -1,9 +1,22 @@
-#randd #research #resources #summaries #game #nokia #snake #playsnake 
-
-|Owner|State|Last_update|
-|--|--|--|
-|@ScottGarryFoster|Signed off|29 May 2023|
-
+---
+Owner: ScottGarryFoster
+State: Signed off
+Last Update: 2023-05-29
+tags:
+  - randd
+  - research
+  - resources
+  - summaries
+  - game
+  - nokia
+  - snake
+  - playsnake
+source name: Classic Snake - Nokia 97 Old by Sudhakar Kanakaraj
+source link: https://play.google.com/store/apps/details?id=com.whiture.apps.classic.snakes&hl=en&gl=US&pli=1
+source date: 2021-08-10
+source publication: Sudhakar Kanakaraj
+source publication link: https://play.google.com/store/apps/dev?id=7850462096578336079
+---
 **Table of contents**
 - [Summary](#Summary)
 - [Take-Aways](#Take-Aways)
@@ -14,10 +27,6 @@
 
 # Summary
 Recreation of the 1997 Nokia version of Snake. Played on an Android Phone.
-
-Source: [Classic Snake - Nokia 97 Old by Sudhakar Kanakaraj](https://play.google.com/store/apps/details?id=com.whiture.apps.classic.snakes&hl=en&gl=US&pli=1)
-Date: 10 August 2021
-Publication: [Sudhakar Kanakaraj](https://play.google.com/store/apps/dev?id=7850462096578336079) via [Google Play](https://play.google.com/store/games)
 
 # Take-Aways
 * Closer to the version I (Scott Foster) played as a Child

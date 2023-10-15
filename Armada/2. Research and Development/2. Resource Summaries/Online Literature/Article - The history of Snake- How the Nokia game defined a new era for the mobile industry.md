@@ -1,9 +1,20 @@
-#randd #research #resources #summaries #article #snake
-
-|Owner|State|Last_update|
-|--|--|--|
-|@ScottGarryFoster|Signed off|29 May 2023|
-
+---
+Owner: ScottGarryFoster
+State: Signed off
+Last Update: 2023-05-29
+tags:
+  - randd
+  - research
+  - resources
+  - summaries
+  - article
+  - snake
+source name: "The history of Snake: How the Nokia game defined a new era for the mobile industry by Ayla Angelos"
+source link: https://www.itsnicethat.com/features/taneli-armanto-the-history-of-snake-design-legacies-230221
+source date: 2021-02-23
+source publication: It's Nice That
+source publication link: https://www.itsnicethat.com/
+---
 **Table of contents**
 - [Summary](#Summary)
 - [Take-Aways](#Take-Aways)
@@ -13,10 +24,6 @@
 
 # Summary
 A brief history of the snake game and how it became a hit in the modern era. The rise of mobile gaming, from the Nokia games to iPhone. How mobile phones became household and a brief history of their rise.
-
-Source: [The history of Snake: How the Nokia game defined a new era for the mobile industry by Ayla Angelos](https://www.itsnicethat.com/features/taneli-armanto-the-history-of-snake-design-legacies-230221)
-Date: 23 February 2021
-Publication: It's Nice That
 
 # Take-Aways
 * Author appears nostalgic of old phones and their primitive chips

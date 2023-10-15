@@ -1,10 +1,10 @@
-#technical *Tags here*
-
-|Owner|State|Last_update|
-|--|--|--|
-|USERNAME|Draft, Development, Review, Signed off|Date|
-*Feel free to add more owners to a single system*
-
+---
+Owner: Username
+State: Draft, Development, Review, Signed off
+Last Update: 2023-01-01
+tags:
+  - technical
+---
 **Table of Contents**
 - [Summary](#Summary)
 - [Top Level API](#Top%20Level%20API)

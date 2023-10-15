@@ -1,9 +1,10 @@
-#design *Tag the document here*
-
-|Owner|State|Last_update|
-|--|--|--|
-|USERNAME|Draft, Development, Review, Signed off|Date|
-
+---
+Owner: Username
+State: Draft, Development, Review, Signed off
+Last Update: 2023-01-01
+tags:
+  - design
+---
 **Table of Contents**
 - [Core](#Core)
 - [Pillars](#Pillars)

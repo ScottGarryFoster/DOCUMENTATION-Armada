@@ -1,9 +1,15 @@
-#technical #standards #csharp #naming #class #name
-
-|Owner|State|Last_update|
-|--|--|--|
-|@ScottGarryFoster|Copied from FQ|21st May 2023|
-
+---
+Owner: ScottGarryFoster
+State: Copied from FQ
+Last Update: 2023-05-21
+tags:
+  - technical
+  - standards
+  - csharp
+  - naming
+  - class
+  - name
+---
 **Table of contents**
 - [[#Summary|Summary]]
     - [[#Namespace begin with FQ|Namespace begin with FQ]]

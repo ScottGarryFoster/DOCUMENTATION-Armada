@@ -1,9 +1,11 @@
-#technical *Tags go here*
-
-|Owner|State|Last_update|
-|--|--|--|
-|@ScottGarryFoster|Development||
-
+---
+Owner: Username
+State: Draft, Development, Review, Signed off
+Last Update: 2023-01-01
+tags:
+  - technical
+  - standards
+---
 **Table of contents**
 - [[#Summary|Summary]]
 *Table of contents goes here*
