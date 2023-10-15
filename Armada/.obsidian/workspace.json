@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Research and Development/Overview.md",
+                "file": "3. Design/Features/Possession/Overview Possession.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Research and Development/Overview.md",
+                "file": "3. Design/Features/Possession/Overview Possession.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Research and Development/Overview.md",
+                "file": "3. Design/Features/Possession/Overview Possession.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Research and Development/Overview.md"
+                "file": "3. Design/Features/Possession/Overview Possession.md"
               }
             }
           }
@@ -161,12 +161,18 @@
   },
   "active": "bf105be272d959c2",
   "lastOpenFiles": [
+    "3. Design/Features/Transformation/Overview Transformation.md",
+    "3. Design/Features/Possession/Overview Possession.md",
+    "1. Documentation/Overview.md",
+    "3. Design/Planning/Design Document.md",
+    "3. Design/Planning/Templates/Single Feature Template.md",
+    "3. Design/Features/Transformation",
+    "2. Research and Development/Overview.md",
     "1. Documentation/Knowledge Base/Resources.md",
     "1. Documentation/Knowledge Base/Obsidian.md",
     "1. Documentation/Knowledge Base/Markdown.md",
     "1. Documentation/Knowledge Base/Github Desktop.md",
     "1. Documentation/Knowledge Base/Github.md",
-    "1. Documentation/Overview.md",
     "4. Technical/Planning/Templates/TDD Template.md",
     "4. Technical/Planning/Templates/System Template.md",
     "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/Intuitive Techniques which do not work.md",
@@ -177,16 +183,10 @@
     "4. Technical/Knowledge Base/Standards/Assemblies and Projects.md",
     "4. Technical/Knowledge Base/Standards/Testing and Test Driven Development.md",
     "3. Design/Overview.md",
-    "3. Design/Planning/Design Document.md",
-    "3. Design/Planning/Templates/Single Feature Template.md",
     "3. Design/Planning/Templates/Design Documents Template.md",
-    "3. Design/Features/Possession/Overview Possession.md",
     "2. Research and Development/5. Technical Research/Talks/Talk -  You are doing logging in .NET wrong. Let’s fix it. - Nick Chapsas - NDC Oslo 2023.md",
     "2. Research and Development/5. Technical Research/Game Tech/MonoGame.md",
-    "2. Research and Development/Overview.md",
     "2. Research and Development/3. Idea Development/Idea - Template.md",
-    "2. Research and Development/1. References and Sources/Article - 12 Best Endless Runner Mobile Games, Ranked.md",
-    "2022-11-25.md",
     "2. Research and Development/4. Prototyping/New Text Document.txt",
     "3. Design/Features/Possession",
     "3. Design/Features",
@@ -205,7 +205,6 @@
     "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/LinkedFiles/T-KB-T-U-TDD-002.png",
     "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/LinkedFiles",
     "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development",
-    "4. Technical/Knowledge Base/Technologies/Unity",
-    "4. Technical/Planning/Templates"
+    "4. Technical/Knowledge Base/Technologies/Unity"
   ]
 }
