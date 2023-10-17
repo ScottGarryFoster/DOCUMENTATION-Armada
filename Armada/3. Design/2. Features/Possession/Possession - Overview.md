@@ -32,12 +32,12 @@ Possession is the ability to take over another creature or empty vessel gaining 
 |--|--|
 |2|When near a potential possession the user interface indicates a button press may occur to move you into the vessel. Equally when in this state the user interface indicates the key to exit a vessel.|
 |3|Vessels do not need to be non-alive. Vessels may not always present as possessable for instance you may require knocking out an enemy to possess them.|
-|4|Some transformations interact with Vessels. Some will automatically switch mode to Actualisation.|
+|4|Transformations interact with Vessels. Some will automatically switch mode to Actualisation.|
 |5|Possessions are generally restricted by a property. For instance movement, ability or area of the given map. There purpose is to gain power, to unlock or to explore new areas.|
-|6|  |
-|7|  |
-|8|  |
-|9|  |
+|6|Properties for Possessions include Movement, Actions, Abilities, Vulnerabilities and Invulnerabilities.|
+|7|Properties could be improved or altered with Transformations for instance Transforming to a hot element could cause the Vessel to gain the ability to melt ice.|
+|8|Properties and Transformation combinations cause the player to want to try the new set of abilities upon gaining a new one (of each type).|
+|9|Vessels will always be restricted to particular area or set of maps. This ensures consistency for the objects the player may interact with.|
 |10|  |
 |11|  |
 |12|  |
@@ -117,21 +117,26 @@ Possessions as they relate to a sexual nature should not be considered if we are
 Copied whole cloth it could be an issue as it is the main mechanic of Mario Odyssey by a large publisher Nintendo. The use of this mechanic needs to be done creatively, adding to the space and without a carbon copy approach.
 
 ## Build and Systems
-
-> **Is there any big data processing required to get this feature working.**
+* An entity creation system in the broadest sense meaning the ability to instruct through data the Vessel is upon this map in this data source for the game.
+* Properties assigned to the Vessels will need to be built into the Game data.
 
 ## Tools
-
-> **Do we require more tools to make this work and allow designers to use this feature.**
+1. When placing down Vessels some indication of this for the Game to pickup will be required. Likely a script or something of that nature.
+2. A creation Tool to indicate where the Vessels are in the world along with everything else.
+3. Ideally a method to modify the behaviour of the properties at Tools time for this.
 
 ## Save file implications
-
-> **Will this affect how the game saves / loads data and what might that be.**
+* Vessels are always unlocked
+* Saving should not occur 'in room' with 'in room' objects so this should not affect the save file.
 
 ## Performance Implications
-
-> **Will this affect performance in some way? Would we need to increase the target machines to play the game?**
+* We should ensure to keep in mind there could be more than one Vessel in the scene and not to build the system such that it is performant at scale 1 but not more than that.
 
 ## Effect on other systems
+**Other systems which affect this**
+1. [[Transformation - Overview]]
+2. Movement
 
-> **Might this affect other systems such as economical, battle or exploration.**
+**Both affecting one another**
+1. Combat
+2. Puzzle Elements
